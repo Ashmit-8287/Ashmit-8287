@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning and building exciting **Frontend Projects**
 - 💻 Technologies I use: HTML, CSS, JavaScript, React, Java, Python
 - 🎯 Currently focusing on **Responsive Web Design** and **UI/UX principles**
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at: [kumarashmit74@gmail.com](mailto:your.email@example.com)
 
 ---
 
